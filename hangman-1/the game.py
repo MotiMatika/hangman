@@ -6,11 +6,13 @@
 #else:                                       # אם התו לא נמצא... מ
 #	print("sorry",x," isn't in the word")   #פלט- התו לא נמצא
 
+
+
 #התכנית מקבלת מילה ומדפיסה את אורכה ע"י קו תחתון כמספר האותיות
-txt = input("enter a word :")
-length =len(txt) 
-print("the lengtf of the word you chose is :",length," letters")
-print("_ "*length)
+# txt = input("enter a word :")
+# length =len(txt) 
+# print("the lengtf of the word you chose is :",length," letters")
+# print("_ "*length)
 
 
 	
